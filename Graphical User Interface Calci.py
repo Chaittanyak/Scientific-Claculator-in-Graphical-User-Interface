@@ -1,3 +1,6 @@
+#NkC
+#11916375
+#LpU
 from tkinter import *
 import math
 import tkinter.messagebox
